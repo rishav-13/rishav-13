@@ -1,5 +1,5 @@
 # README.md
-# Govind Jha - Software Developer 👨‍💻
+# Rishav Mishra - Software Developer 👨‍💻
 
 <p align="center">
   <img src="img.png" width="35%">
