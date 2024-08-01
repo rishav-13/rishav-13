@@ -1,5 +1,5 @@
 # README.md
-# Rishav Mishra - Software Developer 👨‍💻
+# Rishav Mishra - Data Engineer 👨‍💻
 
 <p align="center">
   <img src="img.png" width="35%">
